@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="title_regiones">Regiones</string>
+    <string name="nameRegion">Region: </string>
+    <string name="namePokemon">Nombre: </string>
+    <string name="go_to_Region">Ver Region</string>
+    <string name="go_to_Pokemon">Ver Pokemon</string>
+</resources>
